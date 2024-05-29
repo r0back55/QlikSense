@@ -1,0 +1,14 @@
+/* 
+    Author:     Robert Chwedczuk
+    Date:       29.05.2024
+    Version:    1.0.0
+    Licence:    MIT
+ */
+
+ /* All the below vaules simply overwrites defauls Qlik Sense selectors */
+
+ 
+ @font-face {
+    font-family: "Overpass";
+    src: url("Overpass-Regular.ttf") format("truetype");
+ }

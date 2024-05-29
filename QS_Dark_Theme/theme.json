@@ -1,0 +1,24 @@
+{
+    "_inherit": true,
+    "_variables" : {
+      "@greenColor" : "#61a729",
+      "@text": "#4c4c4c"
+    },
+    "customStyles": [{
+        "cssRef": "dark_theme.css",
+        "classRef": "Dark-Theme"
+      }],
+    "color": "@text",
+    "fontSize": "12px",
+    "fontFamily": "Overpass-Regular",
+    "object" : {
+      "title": {
+        "main": {
+          "fontSize" : "16px"
+        }
+      }
+    },
+    "dataColors": {
+      "primaryColor": "@greenColor"
+    }
+  }
